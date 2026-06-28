@@ -27,7 +27,7 @@ pip install ultralytics opencv-contrib-python numpy
 ## Execucao
 
 ```bash
-python ar_yolo_corrigido_ascii.py
+python ar_yolo.py
 ```
 
 ## Controles
