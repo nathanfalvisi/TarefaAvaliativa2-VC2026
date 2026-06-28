@@ -42,4 +42,4 @@ Desenvolver uma aplicacao de Realidade Aumentada baseada em Visao Computacional 
 
 ## Conclusão
 
-O projeto demonstra a utilizacao de modelos modernos de deteccao de objetos aliados ao OpenCV para criar uma aplicacao interativa e de facil utilizacao.
+O projeto demonstra a utilizacao de modelos modernos de detecção de objetos aliados ao OpenCV para criar uma aplicação interativa e de fácil utilização.
