@@ -242,6 +242,6 @@ Assim como no estudo original, espera-se que a **utilidade percebida** e a **int
 
 ---
 
-## 8. Conclusão (a complementar após aplicação)
+## 8. Conclusão
 
 O experimento propõe uma avaliação estruturada e replicável da percepção de usuários sobre Realidade Aumentada não imersiva, combinando dados quantitativos (escala Likert via TAM) com registros qualitativos de comportamento. A escolha do Art Projector como aplicação permite acesso democrático (gratuito, sem hardware especial), o que favorece a inclusão de perfis variados de participantes e torna os resultados mais representativos de um usuário geral, não apenas de um público técnico.
