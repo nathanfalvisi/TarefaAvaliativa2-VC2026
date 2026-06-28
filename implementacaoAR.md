@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Desenvolver uma aplicacao de Realidade Aumentada baseada em Visao Computacional capaz de identificar objetos em tempo real utilizando uma webcam.
+Desenvolver uma aplicação de Realidade Aumentada baseada em Visão Computacional capaz de identificar objetos em tempo real utilizando uma webcam.
 
 ## Funcionamento
 
