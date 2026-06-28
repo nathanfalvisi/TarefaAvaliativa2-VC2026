@@ -10,7 +10,7 @@
 
 Este experimento foi elaborado com base na metodologia do artigo de Juan et al. (2018), que avaliou a aceitação de um sistema de Realidade Virtual imersiva para navegação em imóveis na pré-venda em Taiwan. O estudo utilizou o **Technology Acceptance Model (TAM)**, desenvolvido por Davis (1986), como framework de avaliação, estruturando o questionário em torno de quatro dimensões: facilidade de uso percebida, utilidade percebida, atitude em relação ao uso e intenção de uso futuro.
 
-Adaptando essa abordagem, o presente experimento aplica um questionário de percepção em um contexto diferente — a **Realidade Aumentada não imersiva** — e avalia as respostas de 5 participantes expostos a uma aplicação de RA disponível em smartphones.
+Adaptando essa abordagem, o presente experimento aplica um questionário de percepção em um contexto diferente, a **Realidade Aumentada não imersiva** e avalia as respostas de 5 participantes expostos a uma aplicação de RA disponível em smartphones.
 
 ### Referências bibliográficas consultadas
 
