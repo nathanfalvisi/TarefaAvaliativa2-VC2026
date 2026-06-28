@@ -12,8 +12,8 @@ Desenvolver uma aplicacao de Realidade Aumentada baseada em Visao Computacional 
 4. O sistema desenha caixas delimitadoras e exibe informacoes sobre cada objeto.
 5. O usuário pode alterar modos de visualizacao durante a execucao.
 
-## Foto de teste
-[!Foto](img/test.png)
+## Evidência
+![Foto](img/test.png)
 
 ## Principais Recursos
 
