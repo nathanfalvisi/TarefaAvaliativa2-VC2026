@@ -51,11 +51,11 @@ Esta aplicação foi escolhida por ser gratuita, acessível sem hardware especia
 
 | Participante | Perfil sugerido |
 |---|---|
-| P1 | Familiar adulto (faixa 40–60 anos), baixa familiaridade com tecnologia |
-| P2 | Amigo/colega sem formação em TI |
-| P3 | Colega de curso de outra área (ex.: Direito, Administração) |
-| P4 | Familiar jovem (18–25 anos), usuário comum de smartphone |
-| P5 | Colega de curso de CS, mas sem experiência específica com RA |
+| P1 | Familiar adulto (55 anos), média familiaridade com tecnologia |
+| P2 | Amigo sem formação em TI (25 anos) |
+| P3 | Colega de curso de outra área (Direito, 27 anos) |
+| P4 | Familiar jovem (12 anos), usuário comum de smartphone |
+| P5 | Colega de curso de CS (19 anos), mas sem experiência específica com RA |
 
 ### Protocolo
 
