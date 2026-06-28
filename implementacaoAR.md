@@ -1,4 +1,4 @@
-# Documentacao do Projeto
+# Documentação do Projeto
 
 ## Objetivo
 
@@ -10,17 +10,20 @@ Desenvolver uma aplicacao de Realidade Aumentada baseada em Visao Computacional 
 2. Cada frame e enviado ao modelo YOLOv8.
 3. O modelo identifica objetos presentes na imagem.
 4. O sistema desenha caixas delimitadoras e exibe informacoes sobre cada objeto.
-5. O usuario pode alterar modos de visualizacao durante a execucao.
+5. O usuário pode alterar modos de visualizacao durante a execucao.
+
+## Foto de teste
+[!Foto](img/test.png)
 
 ## Principais Recursos
 
-- Deteccao em tempo real
-- Interface grafica com HUD
+- Detecção em tempo real
+- Interface gráfica com HUD
 - Modos INFO, SIMPLES e DEBUG
-- Ajuste dinamico da confianca
+- Ajuste dinâmico da confianca
 - Captura de screenshots
 
-## Possiveis Melhorias
+## Possíveis Melhorias
 
 - Suporte a GPU (CUDA)
 - Estimativa de distancia
@@ -28,15 +31,15 @@ Desenvolver uma aplicacao de Realidade Aumentada baseada em Visao Computacional 
 - Segmentacao de objetos
 - Exportacao de resultados
 
-## Aplicacoes
+## Aplicações
 
-- Educacao
+- Educação
 - Inventario
 - Industria
-- Robotica
+- Robótica
 - Realidade Aumentada
-- Assistencia visual
+- Assistência visual
 
-## Conclusao
+## Conclusão
 
 O projeto demonstra a utilizacao de modelos modernos de deteccao de objetos aliados ao OpenCV para criar uma aplicacao interativa e de facil utilizacao.
