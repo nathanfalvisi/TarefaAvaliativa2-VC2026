@@ -10,7 +10,7 @@
 
 Este experimento foi elaborado com base na metodologia do artigo de Juan et al. (2018), que avaliou a aceitação de um sistema de Realidade Virtual imersiva para navegação em imóveis na pré-venda em Taiwan. O estudo utilizou o **Technology Acceptance Model (TAM)**, desenvolvido por Davis (1986), como framework de avaliação, estruturando o questionário em torno de quatro dimensões: facilidade de uso percebida, utilidade percebida, atitude em relação ao uso e intenção de uso futuro.
 
-Adaptando essa abordagem, o presente experimento aplica um questionário de percepção em um contexto diferente — a **Realidade Aumentada não imersiva** — e avalia as respostas de 5 participantes expostos a uma aplicação de RA disponível em smartphones.
+Adaptando essa abordagem, o presente experimento aplica um questionário de percepção em um contexto diferente, a **Realidade Aumentada não imersiva** e avalia as respostas de 5 participantes expostos a uma aplicação de RA disponível em smartphones.
 
 ### Referências bibliográficas consultadas
 
@@ -51,11 +51,11 @@ Esta aplicação foi escolhida por ser gratuita, acessível sem hardware especia
 
 | Participante | Perfil sugerido |
 |---|---|
-| P1 | Familiar adulto (faixa 40–60 anos), baixa familiaridade com tecnologia |
-| P2 | Amigo/colega sem formação em TI |
-| P3 | Colega de curso de outra área (ex.: Direito, Administração) |
-| P4 | Familiar jovem (18–25 anos), usuário comum de smartphone |
-| P5 | Colega de curso de CS, mas sem experiência específica com RA |
+| P1 | Familiar adulto (55 anos), média familiaridade com tecnologia |
+| P2 | Amigo sem formação em TI (25 anos) |
+| P3 | Colega de curso de outra área (Direito, 27 anos) |
+| P4 | Familiar jovem (12 anos), usuário comum de smartphone |
+| P5 | Colega de curso de CS (19 anos), mas sem experiência específica com RA |
 
 ### Protocolo
 
@@ -242,6 +242,6 @@ Assim como no estudo original, espera-se que a **utilidade percebida** e a **int
 
 ---
 
-## 8. Conclusão (a complementar após aplicação)
+## 8. Conclusão
 
 O experimento propõe uma avaliação estruturada e replicável da percepção de usuários sobre Realidade Aumentada não imersiva, combinando dados quantitativos (escala Likert via TAM) com registros qualitativos de comportamento. A escolha do Art Projector como aplicação permite acesso democrático (gratuito, sem hardware especial), o que favorece a inclusão de perfis variados de participantes e torna os resultados mais representativos de um usuário geral, não apenas de um público técnico.
