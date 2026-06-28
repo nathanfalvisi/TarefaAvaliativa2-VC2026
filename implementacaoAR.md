@@ -9,7 +9,7 @@ Desenvolver uma aplicacao de Realidade Aumentada baseada em Visao Computacional 
 1. Captura imagens da webcam.
 2. Cada frame e enviado ao modelo YOLOv8.
 3. O modelo identifica objetos presentes na imagem.
-4. O sistema desenha caixas delimitadoras e exibe informacoes sobre cada objeto.
+4. O sistema desenha caixas delimitadoras e exibe informações sobre cada objeto.
 5. O usuário pode alterar modos de visualizacao durante a execucao.
 
 ## Evidência
